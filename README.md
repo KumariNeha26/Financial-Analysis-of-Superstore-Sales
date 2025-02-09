@@ -1,4 +1,4 @@
-Financial Analysis of Superstore Sales
+# Financial Analysis of Superstore Sales
 
 Project Overview
 This project leverages Tableau to analyze sales trends, profitability, and product performance from 2016-2019. It provides actionable insights into year-over-year sales growth, regional profit distribution, and top-performing products to support data-driven decision-making.
